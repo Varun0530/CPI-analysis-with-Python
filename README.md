@@ -8,7 +8,7 @@ This project analyzes the Consumer Price Index (CPI) to understand inflation tre
 1) Inflation Trend Analysis: Displays overall CPI trends over time.
 2) Seasonal Decomposition: Breaks down CPI data into trend, seasonal, and residual components to identify cyclical patterns.
 3) Sector Comparison: Compares inflation across sectors (e.g., Urban, Rural) for a deeper understanding of cost-of-living impacts.
-4) COVID-19 Impact Analysis: Analyzes changes in essential categories (e.g., health, housing) during the COVID-19 period
+4) COVID-19 Impact Analysis: Analyzes changes in essential categories (e.g., health, housing) during the COVID-19 period.
 
 ## Technologies Used
 -) Python Libraries:
